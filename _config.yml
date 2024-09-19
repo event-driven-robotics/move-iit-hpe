@@ -1,15 +1,15 @@
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              https://hyde.getpoole.com
+title:            move-iit-hpe
+tagline:          'Event-camera HPE'
+description:      'An event-camera Human Pose Estimation dataset and competition'
+url:              https://event-driven-robotics/move-iit-hpe.github.io
 baseurl:          ''
 paginate:         5
 
 # About and contact
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Event-driven Perception for Robotics'
+  url:            https://www.edpr.iit.it
 
 # Gems
 plugins:
@@ -17,4 +17,4 @@ plugins:
   - jekyll-gist
 
 # Custom vars
-version:          3.0.0
+version:          0.1
