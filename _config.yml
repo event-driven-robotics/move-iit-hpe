@@ -3,7 +3,7 @@ title:            move-iit-hpe
 tagline:          'Event-camera HPE'
 description:      'An event-camera Human Pose Estimation dataset and competition'
 url:              https://event-driven-robotics.github.io
-baseurl:          ''
+baseurl:          '/move-iit-hpe/'
 paginate:         5
 
 # About and contact
