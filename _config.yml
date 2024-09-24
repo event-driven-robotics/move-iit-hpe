@@ -6,7 +6,8 @@ url:              https://event-driven-robotics.github.io
 baseurl:          '/move-iit-hpe/'
 github:
   repo:           https://github.com/event-driven-robotics/move-iit-hpe
-paginate:         5
+# paginate:         5
+logo:             'assets/img/logo.png'
 
 # About and contact
 author:
@@ -15,7 +16,7 @@ author:
 
 # Gems
 plugins:
-  - jekyll-paginate
+#  - jekyll-paginate
   - jekyll-gist
 
 # Custom vars

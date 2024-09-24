@@ -3,15 +3,16 @@ layout: page
 title: Competition
 ---
 
-Explanation about the competition
-
-Image of the secret data
-
-Link to submission website
+In addition to the dataset itself we have released a consistent method for validating results. A subset of data is not released with the dataset and is solely used for evaluation purposes. Submissions can be made via Dockerfile following the instructions below.
 
 ## Leaderboard
 
-table with the leaderboard here
+| Submission Name            | Accuracy  | 
+| :---------------- | :------: | 
+| MoveEnet |   50%   | 
+| - |   -   | 
+| -    |  -   | 
+
 
 ## Submisssion
 
