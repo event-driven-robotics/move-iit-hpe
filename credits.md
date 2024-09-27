@@ -9,7 +9,7 @@ Arren Glover, Gaurvi Goyal, Stefano Chiavazza
 
 ### Vicon Technical
 
-Maria Carmella
+Mariacarla Memeo
 
 ### Vicon Processing
 
