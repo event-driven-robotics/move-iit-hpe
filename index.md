@@ -5,9 +5,11 @@ title: Home
 
 # move-iit-hpe
 
-<video controls autoplay width="100%" video="100%" style="width:100%; height:100%"><source type="video/mp4" src="assets/vid/side-by-side.mp4"></video>
+<video controls autoplay width="120%" video="100%" style="width:100%; height:100%"><source type="video/mp4" src="assets/vid/side-by-side.mp4"></video>
 
-move-iit-hpe is a Human Pose Estimation (HPE) dataset and competition captured with event-cameras [ ]. The dataset tests, in particular, the ability to deal with moving event-camera with cluttered scene and large variations in dynamics.
+Our new dataset, move-iit-hpe is a Human Pose Estimation (HPE) dataset and competition captured with event-cameras [ ]. The dataset tests, in particular, the ability to deal with moving event-camera with cluttered scene and large variations in dynamics.
+
+To subscibe for the latest updates about the project, subscribe with this form: https://forms.iit.it/view.php?id=662625
 
 The dataset consists of 11 subjects performing 17 actions. The subject is captured with 3 cameras: a stationary event-camera, a moving event-camera, and a moving rgb camera. Each action is repeated twice, with the moving camera moving "slow" and "fast". A VICON motion capture system is used for joint ground-truth, using the standard 13 joint model [ ].
 
